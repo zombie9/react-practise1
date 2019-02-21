@@ -3,7 +3,7 @@ import React from 'react'
 function MainContent() {
   return (
     <div className="main">
-      <h1>Darryl Banks</h1>
+      <h2>Darryl Banks</h2>
       <p>I am a Junior Full-Stack JavaScript Developer</p>
       <p>And I like the following tech: </p>
       <ul>
